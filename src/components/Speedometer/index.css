@@ -1,0 +1,46 @@
+/* Write your CSS here */
+.bg {
+  background-color: black;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+img {
+  width: 50%;
+}
+
+h {
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+h1 {
+  color: #ffffff;
+
+  font-style: italic;
+}
+p {
+  color: #cbd5e1;
+}
+button {
+  color: #ffffff;
+}
+.btn1 {
+  background-color: #0b69ff;
+  margin-right: 20px;
+  outline: none;
+  cursor: pointer;
+  color: #ffffff;
+  border-radius: 10px;
+  border-color: none;
+}
+.btn2 {
+  background-color: black;
+  outline: none;
+  cursor: pointer;
+  color: ##94a3b8;
+  border-radius: 10px;
+  border-color: #94a3b8;
+}
